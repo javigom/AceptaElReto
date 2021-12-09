@@ -1,10 +1,10 @@
 /*
 
-Realizado por Javier Gómez (github.com/javigom). 
+Realizado por Javier GÃ³mez (github.com/javigom) - 10/11/2019
 
-10/11/2019
+Problema 116 - Hola Mundo (aceptaelreto.com)
 
-License GNU GPL v3.
+GNU General Public License v3
 
 */
 
