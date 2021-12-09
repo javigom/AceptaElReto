@@ -3,7 +3,7 @@
 * 
 * Problema 117 - La fiesta aburrida (aceptaelreto.com)
 * 
-* GNU General Public License v3
+* MIT License
 */
 
 #include <iostream>
