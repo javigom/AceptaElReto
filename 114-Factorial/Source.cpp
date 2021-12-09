@@ -1,10 +1,10 @@
 /*
-* 
-Realizado por Javier G�mez (github.com/javigom).
 
-26/9/2019
+Realizado por Javier Gómez (github.com/javigom) - 26/9/2019
 
-License GNU GPL v3.
+Problema 114 - Último dígito del factorial (aceptaelreto.com)
+
+GNU General Public License v3
 
 */
 
