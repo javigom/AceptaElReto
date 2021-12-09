@@ -1,11 +1,9 @@
 /*
-
-Realizado por Javier Gómez (github.com/javigom) - 26/9/2019
-
-Problema 117 - La fiesta aburrida (aceptaelreto.com)
-
-GNU General Public License v3
-
+* Realizado por Javier Gómez (github.com/javigom) - 26/9/2019
+* 
+* Problema 117 - La fiesta aburrida (aceptaelreto.com)
+* 
+* GNU General Public License v3
 */
 
 #include <iostream>
