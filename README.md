@@ -9,6 +9,7 @@ MIT License.
 
 ### NÚMERO DE CASOS
 
+```plain
 #include <iostream>
 
 using namespace std;
@@ -28,9 +29,11 @@ int main() {
 
 	return 0;
 }
+```
 
 ### MARCA FINAL
 
+```plain
 #include <iostream> 
 using namespace std;
 
@@ -51,6 +54,55 @@ int main() {
 	while(casoDePrueba()){
 	}
 	return 0;
-}      
-                               
+} 
+```
+
+### FIN DE LA ENTRADA
+
+```plain
+#include <iostream>
+using namespace std;
+
+boolcasoDePrueba() {
+
+	//leer caso de prueba
+	if(!cin)
+		return false;
+
+	else{
+		//CÓDIGO PRINCIPAL AQUÍ
+		return true;
+	}
+} //caso De Prueba 
+
+int main() {
+
+	while(casoDePrueba()) {
+
+	}
+
+	return 0;
+}
+```
+
+### E/S PARA FICHERO DE DATOS
+
+```plain
+#include <fstream>
+
+int main() {
+#ifndef DOMJUDGE
+	std::ifstream in("datos.txt");
+	auto cinbuf = std::cin.rdbuf(in.rdbuf());
+#endif
+
+	While(resuelveCaso()){
+	}
+
+#ifndef DOMJUDGE 
+	std::cin.rdbuf(cinbuf);
+#endif
+	return 0;
+}
+```
                                
