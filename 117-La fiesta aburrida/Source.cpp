@@ -4,7 +4,7 @@ Realizado por Javier Gómez (github.com/javigom) - 26/9/2019
 
 Problema 117 - La fiesta aburrida (aceptaelreto.com)
 
-License GNU GPL v3
+GNU General Public License v3
 
 */
 
