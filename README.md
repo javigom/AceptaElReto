@@ -63,7 +63,7 @@ int main() {
 #include <iostream>
 using namespace std;
 
-boolcasoDePrueba() {
+bool casoDePrueba() {
 
 	//leer caso de prueba
 	if(!cin)
